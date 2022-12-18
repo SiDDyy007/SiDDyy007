@@ -1,34 +1,33 @@
+<h2> Hey there! I'm Siddhant. </h2>
+
 - 1% improvement Daily ;
-- 👋 Hi, I’m @piyushkanadje
-- Currently pursuing a master's degree in Computer Engineering at the University Of California Riverside.
-- 👀 Seeking Summer interships as SDE/SWE.
-- 🌱 I’m currently learning Python DSA and in depth React 
-- 📫 How to reach me siddhantjagdish20@gmail.com
-- Connect With me on my [LinkedIn](https://www.linkedin.com/in/sid207/)
+- 🔭 &nbsp; Master's in Computer Science, University of California Riverside
+- 👀 &nbsp; Seeking Summer interships as SDE/SWE.
+- 🤔 &nbsp; An avid problem solver and an efficient communicator, focussed on delivering goals keeping the customer first
+- 💼 &nbsp; Software Engineer, Data Analyst, Researcher, Open source contributor but at the bottom of all of it an inquisitive individual 
 
 
-Tech Stack 💻<hr/>
-- { } Programming Languages - Python, Java, Javascript, HTML, CSS, C, C++, PHP, SQL 
-- 🧰 Tools/frameworks - React, Spring MVC, Spring Boot, Laravel, Bootstrap, jQuery, Wordpress
-- 🗄 Data management systems - MySQL, MongoDB
-- 💻 Web Development - HTML, CSS, Bootstrap, React, NodeJS, ExpressJS
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Javascript | Java | C++ | PHP 
+- 🌐 &nbsp; HTML | CSS | Node.Js | React | Angular | Laravel
+- 🛢 &nbsp; MySQL | MongoDB |
+- 🔧 &nbsp; Intellij IDE | PyCharm | Visual Studio code | Netbeans | Git
 - ☁ Cloud Technologies - Docker, Kubernetes, AWS 
-- 🤓 Other applications/technologies - Git, Kafka, Camunda, VS Code, Visual Studio, REST APIs, XML, JSON, XSLT, Jira, 
 
-
-
-
-
-📫 How to reach me: <br/>
-[Email](siddhantjagdish20@gmail.com)  <br/>
-[LinkedIn](https://www.linkedin.com/in/sid207/) <br/>
-
-
+<br>
 
 
 
 
 [![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiDDyy007)](https://github.com/SiDDyy007/github-readme-stats)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center"> 
+&nbsp; <a href="https://www.linkedin.com/in/sid207/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:spooj003@ucr.edu" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
 
 
 
