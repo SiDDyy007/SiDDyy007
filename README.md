@@ -2,9 +2,9 @@
 
 - 1% improvement Daily ;
 - 🔭 &nbsp; Master's in Computer Science, University of California Riverside
-- 👀 &nbsp; Seeking Summer interships as SDE/SWE.
 - 🤔 &nbsp; An avid problem solver and an efficient communicator, focussed on delivering goals keeping the customer first
 - 💼 &nbsp; Software Engineer, Data Analyst, Researcher, Open source contributor but at the bottom of all of it an inquisitive individual 
+- 👀 &nbsp; Seeking Summer interships as SDE/SWE.
 
 
 <h3>🛠 Tech Stack</h3>
