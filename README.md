@@ -18,7 +18,7 @@
 <br>
 
 
-
+![Visitor Count](https://profile-counter.glitch.me/SiDDyy007/count.svg)
 
 [![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiDDyy007)](https://github.com/SiDDyy007/github-readme-stats)
 
