@@ -18,7 +18,7 @@
 <br>
 
 
-![Visitor Count](https://profile-counter.glitch.me/SiDDyy007/count.svg)
+![Visitor Count](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSiDDyy007&show_icons=true&theme=tokyonight)
 
 [![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiDDyy007)](https://github.com/SiDDyy007/github-readme-stats)
 
