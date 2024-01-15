@@ -3,15 +3,15 @@
 - 1% improvement Daily ;
 - 🔭 &nbsp; Master's in Computer Science, University of California Riverside
 - 🤔 &nbsp; An avid problem solver and an efficient communicator, focussed on delivering goals keeping the customer first
-- 💼 &nbsp; Software Engineer, Open source contributor, and last but not least, an inquisitive individual 
-- 👀 &nbsp; Seeking Summer interships as SDE/SWE.
+- 💼 &nbsp; Software Engineer, Machine Learning Engineer, Open source contributor, and last but not least, an inquisitive individual 
+- 👀 &nbsp; Seeking Full-time roles as SDE/SWE/MLE starting from March 2024.
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Javascript | Java | C++ | PHP 
-- 🌐 &nbsp; HTML | CSS | Node.Js | React | Angular | Laravel
-- 🛢 &nbsp; MySQL | MongoDB |
+- 💻 &nbsp; Python | Javascript | Golang | C++ | PHP 
+- 🌐 &nbsp; HTML | CSS | Node.Js | React | Angular 
+- 🛢 &nbsp; MySQL | MongoDB | DynamoDB | Pinecone
 - 🔧 &nbsp; Intellij IDE | PyCharm | Visual Studio code | Netbeans | Git
 - ☁ Cloud Technologies - Docker, Kubernetes, AWS 
 
