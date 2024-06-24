@@ -3,8 +3,7 @@
 - 1% improvement Daily ;
 - 🔭 &nbsp; Master's in Computer Science, University of California Riverside
 - 🤔 &nbsp; An avid problem solver and an efficient communicator, focussed on delivering goals keeping the customer first
-- 💼 &nbsp; Software Engineer, Machine Learning Engineer, Open source contributor, and last but not least, an inquisitive individual 
-- 👀 &nbsp; Seeking Full-time roles as SDE/SWE/MLE starting from March 2024.
+- 💼 &nbsp; Software Engineer, ML/AI Engineer, Open source contributor, and last but not least, an inquisitive individual 
 
 
 <h3>🛠 Tech Stack</h3>
