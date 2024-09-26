@@ -8,10 +8,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Javascript | Golang | C++ | PHP 
-- 🌐 &nbsp; HTML | CSS | Node.Js | React | Angular 
-- 🛢 &nbsp; MySQL | MongoDB | DynamoDB | Pinecone
-- 🔧 &nbsp; Intellij IDE | PyCharm | Visual Studio code | Netbeans | Git
+- 💻 &nbsp; Python | Javascript | Golang 
+- 🌐 &nbsp; HTML | CSS | Node.Js | React 
+- 🛢 &nbsp; MySQL | DynamoDB | Pinecone | Postgresql
+- 🔧 &nbsp; Visual Studio code | Netbeans | Git
 - ☁ Cloud Technologies - Docker, Kubernetes, AWS 
 
 <br>
